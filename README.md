@@ -1,3 +1,3 @@
-# yoopay
+# YooPay
 
---- Application mobile de paiement
++++ Application mobile de paiement
