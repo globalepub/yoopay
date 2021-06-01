@@ -1,8 +1,8 @@
 # YooPay
 
-### Application *mobile de paiement*.
+### Application **mobile de paiement**.
 
 ## Fonctionnalités
-*Mobile Money
-*Autres Services de transfert d'argent
-*Crytomonnaies
+* Mobile Money
+* Autres Services de transfert d'argent
+* Crytomonnaies
